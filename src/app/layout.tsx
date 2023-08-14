@@ -6,7 +6,7 @@ const poppins = Poppins({ subsets: ['latin'], weight: ['400','500','600','700','
 
 export const metadata = {
   title: 'Travel Hospeda Web',
-  description: 'Sistema de Reservas de Viagens Online',
+  description: 'Sistema de Reservas de Hospedagem Online',
 }
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
